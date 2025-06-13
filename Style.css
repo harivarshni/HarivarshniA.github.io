@@ -1,0 +1,38 @@
+.profile {
+  color: #fff;
+  background-color: #333;
+  font-size: 18px;
+  line-height: 1.6;
+  padding: 15px;
+  border-radius: 10px;
+  font-family: 'Arial', sans-serif;
+}
+.profile-pic {
+  width: 200px;           
+  height: 200px;          
+  border-radius: 50%;     
+  object-fit: cover;    
+  border: 6px solid #fff; 
+  box-shadow: 0 0 10px #333; 
+  display: block;0
+  margin: 20px auto;
+}
+body{
+  background-color: #1e1e1e;
+}
+.chart {
+  width: 80%;
+  margin: 20px auto;
+}
+
+.bar-label {
+  font-weight: bold;
+  margin: 10px 0 5px;
+}
+
+.bar-skill {
+  background-color: #00bcd4;
+  color: black;
+  padding: 5px;
+  border-radius: 5px;
+}
